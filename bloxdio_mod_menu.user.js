@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Bloxd.io Ultimate Mod Menu
 // @namespace    https://github.com/Fallencell/bloxdio-modmenu
+// @namespace    https://www.tampermonkey.net/
 // @version      3.0
 // @description  Power-user mod menu for Bloxd.io: Custom crosshairs, auto-pickup, ESP, killaura, speed, noclip, fly, rainbow, night mode, notifications, and AGGRESSIVE anti-cheat bypass. Author: Fallencell
 // @author       Fallencell
